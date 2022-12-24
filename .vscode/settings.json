@@ -1,0 +1,17 @@
+{
+  "workbench.sideBar.location": "left",
+  "editor.stickyTabStops": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabSizing": "fit",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "markdown.links.openLocation": "currentGroup",
+  "editor.cursorBlinking": "blink",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "debug.inlineValues": "on",
+  "workbench.editor.untitled.hint": "text",
+  "javascript.inlayHints.parameterNames.enabled": "none",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "workbench.editor.enablePreviewFromQuickOpen": true
+}
