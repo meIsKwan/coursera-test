@@ -1,0 +1,1 @@
+XinChaoQuan.sayHello();
