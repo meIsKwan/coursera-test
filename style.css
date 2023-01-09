@@ -1,0 +1,1057 @@
+.star-rating span,
+.stars span a {
+    font-family: star !important;
+    color: #f0ad4e !important;
+}
+
+.elementor-248 .elementor-element.elementor-element-0445688 .elementor-heading-title {
+    font-family: 'Cormorant', serif !important;
+}
+
+.woocommerce-Address {
+    width: 100% !important;
+    margin: 0;
+}
+
+.slick-dots {
+    margin-top: 30px;
+}
+
+.ht-product-inner,
+.elementor-107 .elementor-element.elementor-element-78d2b27 .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-label {
+    border-radius: 10px !important;
+}
+
+.woocommerce #respond input#submit {
+    background-color: #DA2467;
+    color: white;
+    border-radius: 25px;
+    width: 100%;
+}
+
+a.added_to_cart,
+.woocommerce-shipping-destination,
+.shipping-calculator-button {
+    display: none !important
+}
+
+.comment-form-rating label,
+.woocommerce #review_form #respond p {
+    margin: 0;
+}
+
+.woocommerce-page .select2-container .select2-search__field,
+.woocommerce-page .select2-container .select2-selection {
+    height: 3.5rem;
+    font-size: var(--wp--preset--font-size--small);
+    padding: 0 !important;
+}
+
+.woocommerce ul#shipping_method {
+    width: 300px;
+}
+
+.woocommerce #respond input#submit:hover {
+    background-color: #DA2467;
+    color: white;
+    width: 100%;
+}
+
+* {
+    font-family: 'Raleway', serif;
+}
+
+footer {
+    z-index: 999999999999999999999999999999;
+}
+
+.second-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAVIGATION */
+.fs-13 {
+    font-size: 13px;
+}
+
+input.searchbar {
+    border: 0;
+    border-bottom: 1px solid #DA2467;
+}
+
+input.searchbar:focus {
+    outline: 0;
+}
+
+.searchbutton {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    /* right: 10%; */
+    outline: none;
+}
+
+/* THE END OF NAVIGATION */
+.bg-introduction {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    object-fit: fill;
+}
+
+.bg-cart {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: fill;
+}
+
+.bg-introduction-modal {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.bg-introduction-modal::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.6;
+    z-index: -1;
+}
+
+.yinyanz-menu {
+    background-color: rgba(0, 0, 0, .2);
+    transition: background-color 1.5s;
+    transition: box-shadow .9s;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5)
+}
+
+.yinyanz-menu:hover {
+    background-color: rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0px 0px 30px rgba(30, 30, 30, 0.05);
+    -webkit-box-shadow: 0px 0px 30px rgba(30, 30, 30, 0.05);
+    box-shadow: 0px 0px 30px rgba(30, 30, 30, 05);
+}
+
+a.social-media-icon {
+    opacity: 100%;
+}
+
+a.social-media-icon:hover {
+    opacity: 80%;
+}
+
+.yinyanz-menu-text {
+    opacity: 100% !important;
+    font-size: 4em;
+    color: white;
+}
+
+.footer-text:hover {
+    color: #DA2467;
+    ;
+}
+
+.yinyanz-text {
+    color: black
+}
+
+.yinyanz-text:hover {
+    color: #DA2467;
+}
+
+.yinyanz-button {
+    background: #DA2467;
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 1em;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    --bs-btn-color: #DA2467;
+    --bs-btn-border-color: #DA2467;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #DA2467;
+    --bs-btn-hover-border-color: #DA2467;
+    --bs-btn-focus-shadow-rgb: 220, 53, 69;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #DA2467;
+}
+
+.yinyanz-button:hover {
+    background: #e2699a;
+}
+
+.yinyanz-button:active {
+    background: #bc0056;
+    color: yellow;
+}
+
+.yinyanz-button-white {
+    color: #000000;
+    text-decoration: none;
+    background-color: #ffffff;
+    font-weight: 800;
+    padding: 10px 30px;
+    border: solid #000000 0px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 800ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.yinyanz-button-white:hover {
+    transition: 758ms;
+    padding: 10px 100px;
+    transform: translateY(-0px);
+    background-color: #bc0056;
+    color: #ffffff;
+    border: solid 0px transparent;
+}
+
+.yinyanz-button-2:active {
+    background: gray;
+}
+
+.yinyanz-object-fit-cover {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.yinyanz-button:active,
+.yinyanz-button:focus {
+    background: #DA2467;
+    color: inherit;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.btn-check:checked+.btn:focus-visible,
+:not(.btn-check)+.btn:active:focus-visible,
+.btn:first-child:active:focus-visible,
+.btn.active:focus-visible,
+.btn.show:focus-visible {
+    box-shadow: #DA2467;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-image: -webkit-gradient(linear,
+            left bottom,
+            left top,
+            color-stop(0.44, #e2699a),
+            color-stop(0.72, #da2467),
+            color-stop(0.86, #bc0056));
+}
+
+.yinyanz-image-cover {
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 10rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-indicators [data-bs-target] {
+    box-sizing: border-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #e2699a;
+    border: 0 solid transparent;
+    border-radius: 100em;
+    opacity: 0.3;
+    transition: opacity 0.6s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .carousel-indicators [data-bs-target] {
+        transition: none;
+    }
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: #DA2467;
+}
+
+.hover-shadow:hover img {
+    box-shadow: 1px 1px 10px #DA2467;
+}
+
+.slick-slider {
+    margin: 0 -15px;
+}
+
+.slick-slide {
+    padding: 0.2em;
+    text-align: center;
+    margin-right: 0.1vw;
+    margin-left: 0.1vw;
+}
+
+/* Arrows */
+.slick-prev,
+.slick-next {
+    font-size: 0;
+    line-height: 0;
+
+    position: absolute;
+    top: 50%;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+
+    cursor: pointer;
+
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+    color: transparent;
+    outline: none;
+    background: transparent;
+}
+
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before {
+    opacity: 1;
+}
+
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before {
+    opacity: .25;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-family: 'slick';
+    font-size: 25px;
+    line-height: 1;
+
+    opacity: .75;
+    color: #DA2467;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev {
+    left: -10px;
+    z-index: 1000;
+}
+
+[dir='rtl'] .slick-prev {
+    right: -25px;
+    left: auto;
+}
+
+.slick-prev:before {
+    content: 'â†';
+}
+
+[dir='rtl'] .slick-prev:before {
+    content: 'â†’';
+}
+
+.slick-next {
+    right: -10px;
+    z-index: 1000;
+}
+
+[dir='rtl'] .slick-next {
+    right: auto;
+    left: -25px;
+}
+
+.slick-next:before {
+    content: 'â†’';
+}
+
+[dir='rtl'] .slick-next:before {
+    content: 'â†';
+}
+
+.image-index-1 {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/index-1.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width:576px) {
+    .max-height-mobile-25 {
+        max-height: 25vh;
+        object-fit: cover;
+    }
+}
+
+@media (max-width:768px) {
+    #index-section-1 {
+        opacity: 1;
+    }
+}
+
+@media (min-width:960px) {
+    #index-section-1 {
+        opacity: 0;
+        background-color: #44444490;
+        transition: opacity 1s ease;
+    }
+
+    #index-section-1:hover {
+        opacity: 1;
+    }
+
+}
+
+.yinyanz-cart-button {
+    background-color: #F87449;
+}
+
+.yinyanz-rounded-left-5 {
+    border-radius: 5em 0 0 5em;
+}
+
+.yinyanz-rounded-right-5 {
+    border-radius: 0 5em 5em 0;
+}
+
+.yinyanz-rounded-both-5 {
+    border-radius: 5em;
+}
+
+
+
+
+.containerssss {
+    width: 100%;
+}
+
+.bx-pager {
+    display: flex;
+    align-items: center;
+    height: 34px;
+    border-left: 1px solid #F87449;
+}
+
+.bx-pager .bx-pager-item {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex: 0 33%;
+    /* border-top: 1px solid #F87449;
+    border-bottom: 1px solid #F87449; */
+}
+
+.bx-pager .bx-pager-item .bx-pager-link {
+    text-decoration: none;
+    color: rgba(219, 219, 219, 0.5);
+    flex: 1;
+    padding-left: 16px;
+    text-align: center;
+}
+
+.bx-pager .bx-pager-item .arrow {
+    border: solid #F87449;
+    display: inline-block;
+    padding: 9px;
+    border-width: 0 1px 1px 0;
+    transform: translateY(15.5px) rotate(-45deg) skew(-15deg, -15deg) translateX(18px);
+    background-color: transparent;
+}
+
+.bx-pager .bx-pager-item.active {
+    background-color: #F87449;
+}
+
+.bx-pager .bx-pager-item.active .bx-pager-link {
+    color: white;
+}
+
+.bx-pager .bx-pager-item.active .arrow {
+    background-color: #F87449;
+}
+
+@media (max-width:380px) {
+
+    .bx-pager .bx-pager-item .bx-pager-link,
+    .font-rps {
+        font-size: 10px;
+    }
+}
+
+@media (max-width:499px) and (min-width:380px) {
+
+    .bx-pager .bx-pager-item .bx-pager-link,
+    .font-rps {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:720px) {
+
+    .bx-pager .bx-pager-item .bx-pager-link,
+    .font-rps {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px),
+(max-width: 540px) {
+    .vh-sm-20 {
+        height: 20vh !important;
+    }
+
+    .vh-sm-25 {
+        height: 25vh !important;
+    }
+
+    .vh-sm-50 {
+        height: 50vh !important;
+    }
+
+    .vh-sm-75 {
+        height: 75vh !important;
+    }
+
+    .vh-sm-100 {
+        height: 100vh !important;
+    }
+}
+
+@media (min-width: 768px),
+(max-width: 720px) {
+    .vh-md-20 {
+        height: 20vh !important;
+    }
+
+    .vh-md-25 {
+        height: 25vh !important;
+    }
+
+    .vh-md-50 {
+        height: 50vh !important;
+    }
+
+    .vh-md-75 {
+        height: 75vh !important;
+    }
+
+    .vh-md-100 {
+        height: 100vh !important;
+    }
+}
+
+@media (min-width: 992px),
+(max-width: 960px) {
+    .vh-lg-20 {
+        height: 20vh !important;
+    }
+
+    .vh-lg-25 {
+        height: 25vh !important;
+    }
+
+    .vh-lg-50 {
+        height: 50vh !important;
+    }
+
+    .vh-lg-75 {
+        height: 75vh !important;
+    }
+
+    .vh-lg-100 {
+        height: 100vh !important;
+    }
+}
+
+@media (min-width: 961px) {
+    .vh--20 {
+        height: 20vh !important;
+    }
+
+    .vh--25 {
+        height: 25vh !important;
+    }
+
+    .vh--50 {
+        height: 50vh !important;
+    }
+
+    .vh--75 {
+        height: 75vh !important;
+    }
+
+    .vh--100 {
+        height: 100vh !important;
+    }
+}
+
+.modal-backdrop {
+    --bs-backdrop-zindex: 1050;
+    --bs-backdrop-bg: #000;
+    --bs-backdrop-opacity: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: var(--bs-backdrop-zindex);
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--bs-backdrop-bg);
+}
+
+.yinyanz-bg-main {
+    background-color: #DA2467;
+}
+
+.yinyanz-box-shadow {
+    box-shadow: 7px 7px 54px 1px rgba(133, 133, 133, 0.75);
+    -webkit-box-shadow: 7px 7px 54px 1px rgba(133, 133, 133, 0.75);
+    -moz-box-shadow: 7px 7px 54px 1px rgba(133, 133, 133, 0.75);
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #e269993d;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #e2699a;
+}
+
+input.coupon,
+select.coupon {
+    border: 1px solid #DA2467;
+    height: 3em;
+    padding: 0 10px;
+    border-radius: 0;
+}
+
+.form-select:focus {
+    border-color: #bc0056;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem #e2699a;
+}
+
+input.coupon:focus {
+    outline: 0;
+    color: #212529;
+    background-color: #fff;
+    border-color: #e269993d;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #e2699a;
+}
+
+button.coupon-button {
+    background-color: #DA2467;
+    outline: none;
+    color: #F5F5F5;
+    text-transform: uppercase;
+    font-weight: bolder;
+    border: 0 solid transparent;
+    transition: all 1s;
+}
+
+button.coupon-button:hover {
+    background-color: #e2699a;
+}
+
+.input-group-text {
+    display: flex;
+    align-items: center;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid #DA2467;
+}
+
+.font-rps-limit {
+    font-size: 12px;
+    font-weight: 800;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.math-button {
+    border: 0;
+    padding: 0.2em .4em;
+    display: inline-block;
+}
+
+.math-input {
+    width: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.makemeFixed {
+    position: fixed;
+    bottom: 0;
+    box-sizing: border-box;
+    background-color: rgb(223, 223, 223);
+    border-top: 3px dashed rgb(119, 119, 119);
+}
+
+@media (min-width: 400px) {
+    .font-rps-limit {
+        font-size: 12px;
+    }
+
+    .math-button {
+        border: 0;
+        padding: 0.25em .5em;
+        display: inline-block;
+    }
+}
+
+@media (min-width: 576px) {
+    .font-rps-limit {
+        font-size: 14px;
+    }
+
+    .math-button {
+        border: 0;
+        padding: 0.5em 1em;
+        display: inline-block;
+    }
+}
+
+@media (min-width: 768px) {
+    .font-rps-limit {
+        font-size: 16px;
+    }
+
+    .makemeFixed {
+        position: static;
+        background-color: white;
+        border-top: transparent;
+    }
+}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {
+    .math-button {
+        border: 0;
+        padding: 0.25em .5em;
+        display: inline-block;
+    }
+}
+
+@media (min-width: 1400px) {}
+
+.checkboxsmall {
+    font-size: 12px;
+}
+
+.form-check-input:checked {
+    background-color: #bc0056;
+    border-color: #bc0056;
+}
+
+input[type=checkbox],
+input[type=radio] {
+    accent-color: #bc0056;
+    border: 2px solid #bcbcbc;
+    border-radius: 2px;
+    cursor: pointer;
+    border: 2px solid #bcbcbc;
+    border-radius: 2px;
+}
+
+.box-sizing {
+    box-sizing: border-box;
+}
+
+.form-check-input[type=checkbox]:indeterminate {
+    background-color: #bc0056;
+    border-color: #bc0056;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10h8'/%3e%3c/svg%3e");
+}
+
+input[type="checkbox"] {
+    background: #bc0056;
+}
+
+.accordion {
+    --bs-accordion-color: #212529;
+    --bs-accordion-bg: #fff;
+    --bs-accordion-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
+    --bs-accordion-border-color: transparent;
+    --bs-accordion-border-width: 1px;
+    --bs-accordion-border-radius: 0.375rem;
+    --bs-accordion-inner-border-radius: calc(0.375rem - 1px);
+    --bs-accordion-btn-padding-x: 1.25rem;
+    --bs-accordion-btn-padding-y: 1rem;
+    --bs-accordion-btn-color: #212529;
+    --bs-accordion-btn-bg: white;
+    --bs-accordion-btn-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    --bs-accordion-btn-icon-width: 1.25rem;
+    --bs-accordion-btn-icon-transform: rotate(-180deg);
+    --bs-accordion-btn-icon-transition: transform 0.2s ease-in-out;
+    --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    --bs-accordion-btn-focus-border-color: white;
+    --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem transparent;
+    --bs-accordion-body-padding-x: 1.25rem;
+    --bs-accordion-body-padding-y: 1rem;
+    --bs-accordion-active-color: black;
+    --bs-accordion-active-bg: #e7f1ff;
+}
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
+    font-size: 1rem;
+    color: var(--bs-accordion-btn-color);
+    text-align: left;
+    background-color: var(--bs-accordion-btn-bg);
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: var(--bs-accordion-transition);
+}
+
+.accordion-button:focus {
+    z-index: 3;
+    border-color: var(--bs-accordion-btn-focus-border-color);
+    outline: 0;
+    box-shadow: var(--bs-accordion-btn-focus-box-shadow);
+}
+
+.accordion-button:not(.collapsed) {
+    color: black;
+    background-color: white;
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: var(--bs-accordion-btn-active-icon);
+    transform: var(--bs-accordion-btn-icon-transform);
+}
+
+/* Details   */
+.yinyanz-button-addtocart {
+    background: #0EA800;
+    color: white;
+    font-weight: bold;
+    border-radius: 2em 0 0 0;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 2em;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    --bs-btn-color: #0EA800;
+    --bs-btn-border-color: #0EA800;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #DA2467;
+    --bs-btn-hover-border-color: #DA2467;
+    --bs-btn-focus-shadow-rgb: 220, 53, 69;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #16690f;
+}
+
+.yinyanz-button-addtocart:hover {
+    background: #52bd49;
+}
+
+.yinyanz-button-addtocart:active {
+    background: #16690f;
+    color: white;
+}
+
+input#amountaddtocart[type="number"] {
+    border: 3px solid transparent;
+    background-color: transparent;
+    border-radius: .4em 0 0 .4em;
+}
+
+input#amountaddtocart:focus[type="number"] {
+    outline: 0;
+}
+
+
+.details-img {
+    transition: all 1s;
+}
+
+.details-img:hover {
+    box-shadow: 1px 1px 10px #DA2467;
+    object-position: center;
+}
+
+textarea {
+    border: 1px solid #DA2467;
+    resize: none;
+}
+
+textarea:focus {
+    outline: 0;
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {
+    .details-img:hover {
+        box-shadow: 1px 1px 10px #DA2467;
+        object-position: center;
+        transform: scale(1.1);
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none !important;
+        margin: 0 !important;
+    }
+
+    input[type=number] {
+        -moz-appearance-: textfield;
+    }
+
+    .yinyanz-button-addtocart {
+        background: #0EA800;
+        color: white;
+        font-weight: bold;
+        border-radius: 0 .4em .4em 0;
+        text-decoration: none;
+        padding: 1em;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        --bs-btn-color: #0EA800;
+        --bs-btn-border-color: #0EA800;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #DA2467;
+        --bs-btn-hover-border-color: #DA2467;
+        --bs-btn-focus-shadow-rgb: 220, 53, 69;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #16690f;
+    }
+
+    .yinyanz-button-addtocart:hover {
+        background: #52bd49;
+    }
+
+    .yinyanz-button-addtocart:active {
+        background: #16690f;
+        color: white;
+    }
+
+    input#amountaddtocart[type="number"] {
+        border: 3px solid #0EA800;
+        border-radius: .4em 0 0 .4em;
+    }
+
+    input#amountaddtocart:focus[type="number"] {
+        outline: 0;
+    }
+}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 1400px) {}
+
+.bg-yinyanz {
+    background-color: #e269993d;
+    border-radius: 1em;
+}
+
+.bar5stars {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: cover;
+    width: 0%;
+    border-radius: 4px;
+}
+
+.bar4stars {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: cover;
+    width: 0%;
+    border-radius: 4px;
+}
+
+.bar3stars {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: cover;
+    width: 0%;
+    border-radius: 4px;
+}
+
+.bar2stars {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: cover;
+    width: 0%;
+    border-radius: 4px;
+}
+
+.bar1stars {
+    background-image: url('http://yinyanz.com/wp-content/uploads/2022/12/backgroundintroduction-01.png');
+    background-size: cover;
+    width: 0;
+    border-radius: 4px;
+}
+
+.picak {
+    height: 100%;
+}
